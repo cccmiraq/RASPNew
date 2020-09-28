@@ -86,7 +86,7 @@ var config = {
 		
 		
 		//Charts
-		charts : [
+		//charts : [
 			// Vulnerable type
 			{
 				name: "vulnerable_type",
